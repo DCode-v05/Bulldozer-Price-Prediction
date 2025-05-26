@@ -8,7 +8,7 @@ A comprehensive machine learning project to predict the sale price of used bulld
 
 ## 🗂️ Dataset Overview
 
-- **Source**: [Bulldozer auction dataset (TrainAndValid.csv, Test.csv)](https://www.kaggle.com/competitions/bluebook-for-bulldozers)
+- **Source**: [Bulldozer auction dataset](https://www.kaggle.com/competitions/bluebook-for-bulldozers)
 - **Goal**: Predict the sale price (`SalePrice`) of bulldozers at auction
 - **Target Column**: `SalePrice`
 
