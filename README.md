@@ -66,7 +66,7 @@ A comprehensive machine learning project aimed at predicting the sale price of u
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/TensoRag/Bulldozer-Price-Prediction.git
+   git clone https://github.com/DCode-v05/Bulldozer-Price-Prediction.git
    cd Bulldozer-Price-Prediction
    ```
 2. **Install required libraries:**
@@ -133,5 +133,5 @@ Contributions are welcome! To contribute:
 ---
 
 ## Contact
-- **GitHub:** [TensoRag](https://github.com/TensoRag)
+- **GitHub:** [DCode-v05](https://github.com/DCode-v05)
 - **Email:** denistanb05@gmail.com
